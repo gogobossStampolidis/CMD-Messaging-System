@@ -34,14 +34,18 @@ Steps | What to do
 2. Click "Properties"
 3. Click "Sharing"
 4. Click "Advanced Sharing"
+
 ![1](https://user-images.githubusercontent.com/82140482/115449464-855dbc80-a223-11eb-9b53-33b031261145.PNG)
+
 5. Tick the box that is called "Share this folder"
 6. Enter a name 
 7. Click on "Premissions"
 8. Click on "Everyone"
 9. On Premissions for everyone tick the "Full Control" Under Allow
 10. Click On Apply
+
 ![2](https://user-images.githubusercontent.com/82140482/115449468-85f65300-a223-11eb-860d-9a8b769cbc3b.PNG)
+
 11. Again Click On Apply
 12. And Again Click Apply
 13. Click Close
