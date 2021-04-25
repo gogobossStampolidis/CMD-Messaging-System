@@ -1,9 +1,14 @@
 
 CMSFL LOADED!
 
-|==================================================|
-|    <CHAT> Please Dont Spam Because Its Buggy!    |
-|             <CHAT> Status : Testing              |
-|==================================================|
+╔════════════════════════════════════════════════╗
+║<CHAT> Please Dont Spam Because Its Buggy!      ║
+║<CHAT> Status : Testing                         ║
+║<CHAT> Please note that anyone having [] is a   ║
+║user                                            ║ 
+║Example:                                        ║
+║◄SYSTEM► => is the original system              ║
+║[◄SYSTEM►] => is a user                         ║
+╚════════════════════════════════════════════════╝
 
 
